@@ -1,0 +1,21 @@
+{
+  "name": "jpegai-web-pipeline",
+  "version": "1.0.0",
+  "description": "JPEG AI Encoding and Decoding for Node.js and the browser",
+  "main": "jpegai_pipeline.js",
+  "scripts": {
+    "jpegai": "node jpegai_pipeline.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jpegai",
+    "image",
+    "compression",
+    "ai"
+  ],
+  "author": "metabench",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.34.4"
+  }
+}
